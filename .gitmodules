@@ -24,7 +24,7 @@
 	url = https://github.com/opscode-cookbooks/ntp.git
 [submodule "cookbooks/nova"]
 	path = cookbooks/nova
-	url = https://github.com/rcbops-cookbooks/nova.git
+	url = https://github.com/hubspotdevops/nova.git
 [submodule "cookbooks/keystone"]
 	path = cookbooks/keystone
 	url = https://github.com/rcbops-cookbooks/keystone.git
